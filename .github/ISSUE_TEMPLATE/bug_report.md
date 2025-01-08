@@ -12,24 +12,29 @@ assignees: UnduGT
 
 ## **To Reproduce**
 Steps to reproduce the behavior:
-1. What did you do to get this Bug?
+1. *What did you do*
+2. *to get this Bug?*
 
 ## **Undopia Patch Version** *(At the End of the ZIP Filename)*
-*Undopia Patch Version: *
+*Undopia Patch Version:*
 
 ## **Minecraft Version**
-*Minecraft Version: *
+*Minecraft Version:*
 
-## **OptiFine Version** *(If used)*
-*OptiFine Version: *
+## **Website Sharecode** *(If downloaded from Website)*
+*Website Sharecode:*
 
-## **Forge/NeoForged Version** *(If used)*
-*Forge Version: *
+## **Mod Versions** *(If used)*
+- *OptiFine Version:*
+- *Entity Texture Features Version:*
+- *Entity Model Features Version:*
+- *CIT Resewn Features Version:*
 
-## **Other Modloaders ** *(If used)*
-* Fabric Version: *
-* Quilt Version: *
-etc.
+## **Modloader Version** *(If used)*
+- *Forge Version:*
+- *NeoForged Version:*
+- *Fabric Version:*
+- *Quilt Version:*
 
 ## **Additional Mods** *(If used)*
  - *Mod 1*
